@@ -1,2 +1,2 @@
-# rbac-from-servlet-to-microservices
+# Understanding RBAC
 RBAC from Servlet to Microservices
